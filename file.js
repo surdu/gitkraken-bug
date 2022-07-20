@@ -1,2 +1,2 @@
-console.log("this is a test");
-console.log("this is another test");
+console.debug("this is a test");
+console.debug("this is another test");
